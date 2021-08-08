@@ -8,6 +8,8 @@ console.log('小黑更改');
 console.log('我在小黑之后的更改');
 console.log('我dev上的更改');
 
+console.log('我在dev首次创建后的远程小红更改');
+
 console.log('新建dev后，master上的更改');
 console.log('我dev上的更改');
 
