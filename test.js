@@ -26,4 +26,5 @@ console.log('master 别人又写了十万行代码');
 console.log(`我又做了好多好多修改！！`)
 console.log('我在version3 后写的一行代码，需要和version3解决冲突！')
 
-console.log('我拿到了最新的代码，然后又进行了开发！')
+console.log('我拿到了最新的代码，然后又进行了开发！');
+console.log('dev最新，要更新到dev和master上！')
