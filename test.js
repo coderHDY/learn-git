@@ -16,13 +16,10 @@ console.log('我dev上的更改');
 
 console.log('我在dev上写了一万行业务代码！');
 
-<<<<<<< Updated upstream
 console.log('master 又增加了一万行代码');
 
 
 
 console.log('我真不知道别人写了十万行代码，我的更新应该在十万行的最前面');
 console.log('master 别人又写了十万行代码');
-=======
 console.log('我在version3 后写的一行代码，需要和version3解决冲突！')
->>>>>>> Stashed changes
